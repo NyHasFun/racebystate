@@ -1,0 +1,30 @@
+body{
+  font: 10px sans-serif
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+#container{
+    width:100%;
+}
+
+#chart{
+  width:1000px;
+  margin: 0 auto;
+}
+
+.center{
+  width:800px;
+  margin: 0 auto;
+}
